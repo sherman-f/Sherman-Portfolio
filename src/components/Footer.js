@@ -14,7 +14,7 @@ function Footer() {
                     <FaGithub />
                 </button>
             </div>
-            <p> &copy; 2024 shermanf.com</p>
+            <p> &copy; 2024 sherman-f.github.io</p>
         </div>
     );
 }
